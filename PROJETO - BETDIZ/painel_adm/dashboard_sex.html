@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BetBiz</title>
+    <link href="assets/img/favicon.svg" rel="icon">
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/0b08c8a640.js" crossorigin="anonymous"></script>
+
+
+</head>
+<body class="dashboard">
+
+  <nav class="navbar navbar-expand-lg navbar-light ">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="https://brainyou.com.br">
+            <img  src="assets/img/logo.png">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="ms-auto my-2 order-0 order-md-1 position-relative">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 nav_bar">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page"
+                           href="dashboard_one.html">Jogos Rodada</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_two.html">Validar Agente</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_tree.html">Evolução</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_for.html">Resultados</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_five.html">Informações Rodada</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_sex.html">Cadastrar Bilhete</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="">Sair</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+  <section>
+    <div class="container-fluid">
+      <div class="row">
+
+        <div class="col-lg-12 table_v1">
+          <div class="row table_one">
+
+            <div class="row seach_table tb_space">
+              <div class="col-lg-8 mauto left">
+                <p>Cadastrar Partidas</p>
+              </div>
+
+              <div class="col-lg-2 btn01">
+                <button type="button" data-bs-toggle="modal" data-bs-target="#modal_v2">Cadastrar Partida</button>
+              </div>
+
+              <div class="col-lg-2">
+                <input type="" placeholder="Pesquisar Bilhete..." name="">
+              </div>
+
+            </div>
+
+
+            <div class="table_one_inter table-responsive">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Cms Partida</th>
+                    <th scope="col">Bilhete</th>
+                    <th scope="col">Data Inicial</th>
+                    <th scope="col">Data Final</th>
+                    <th scope="col">Valor do Bilhete</th>
+                    <th scope="col">Times Participando</th>
+                    <th scope="col">Ação</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Opção</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">01</th>
+                    <td>5%</td>
+                    <td>01</td>
+                    <td>25/09/2022</td>
+                    <td>26/09/2022</td>
+                    <td>R$25,00</td>
+                    <td><a href="" type="button" data-bs-toggle="modal" data-bs-target="#modal_v3">Editar</a></td>
+                    <td><a href="" type="button" data-bs-toggle="modal" data-bs-target="#modal_v4">Editar</a></td>
+                    <td><span>Em andamento</span></td>
+                    <td>Apagar</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-12 login_footer">
+              <p>Copyright ©2022 betfair </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- MODAL V1 -->
+  <div class="modal fade" id="modal_v2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="modal_v2">
+            <h2>Cadastar Bilhete</h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-6">
+              <input type="" placeholder="Time 01" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Time 02" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Data Inicial" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Data Final" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Hora Inicial" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Horal Final" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Primiação" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Comissão" name="">
+            </div>
+          </div>
+          <button class="btn02">Adicionar +Partidas</button>
+          <button>Cadastrar Bilhete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- MODAL V2 -->
+  <div class="modal fade" id="modal_v3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="modal_v2">
+            <h2>Times Participantes</h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-6">
+              <input type="" placeholder="Flamengo" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="São Paulo" name="">
+            </div>
+
+            <hr>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Atletico GO" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Villa Nova" name="">
+            </div>
+
+            <hr>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="PSG" name="">
+            </div>
+
+            <div class="col-lg-6">
+              <input type="" placeholder="Barcelona" name="">
+            </div>
+
+          <button>Salvar Edição</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+  <!-- MODAL V3 -->
+  <div class="modal fade" id="modal_v4" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="modal_v2">
+            <h2>Encerrar Partida</h2>
+          </div>
+          <div class="row">
+            <button>Encerrar Partida</button>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+<script src="assets/js/jquery-3.6.0.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"path": "betdiz"
+		},
+		{
+			"path": "betdiz\\database"
+		},
+		{
+			"path": "betdiz\\app\\Http"
+		},
+		{
+			"path": "betdiz\\app\\Models"
+		},
+		{
+			"path": "betdiz\\routes"
+		},
+		{
+			"path": "betdiz\\resources"
+		},
+		{
+			"path": "PROJETO - BETDIZ"
+		}
+	]
+}

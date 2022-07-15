@@ -1,0 +1,1465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stat",
+				"status"
+			],
+			[
+				"rq",
+				"request"
+			],
+			[
+				"tick",
+				"ticket"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ticket",
+				"ticket_id"
+			],
+			[
+				"init",
+				"initial_time"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"pars",
+				"parseInt\t( s: string, radix: int ): int Global"
+			],
+			[
+				"pla",
+				"plano_ativo"
+			],
+			[
+				"saldo",
+				"saldo_total"
+			],
+			[
+				"usuar",
+				"usuario"
+			],
+			[
+				"Res",
+				"result"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"id",
+				"id_usuario"
+			],
+			[
+				"sald",
+				"saldo_total"
+			],
+			[
+				"NUM",
+				"num_convidado"
+			],
+			[
+				"num_",
+				"num_rows"
+			],
+			[
+				"no",
+				"novo_saldo"
+			],
+			[
+				"va",
+				"valor"
+			],
+			[
+				"valro",
+				"valor_fatura"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"clie",
+				"clientes_faturas"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"ran",
+				"random\t(): number Math"
+			],
+			[
+				"chi",
+				"children\t: HTMLCollection Document"
+			],
+			[
+				"consoe",
+				"console_log"
+			],
+			[
+				"bt-historic",
+				"bt-historicogeral"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bet",
+				"bet_color"
+			],
+			[
+				"win",
+				"win_white"
+			],
+			[
+				"set",
+				"setInterval\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"conse",
+				"console_log"
+			],
+			[
+				"bet_Va",
+				"bet_value"
+			],
+			[
+				"tou",
+				"toUpperCase\t(): string String"
+			],
+			[
+				"geteleme",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"btns",
+				"btnsColors"
+			],
+			[
+				"setty",
+				"setTypeColor"
+			],
+			[
+				"slic",
+				"slice\t( start: int, end: int ): Array Array"
+			],
+			[
+				"meu",
+				"meuhistoricoBet"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"hisoti",
+				"historicoBet"
+			],
+			[
+				"las",
+				"lastChild\t: Node Node"
+			],
+			[
+				"his",
+				"historicoBet"
+			],
+			[
+				"app",
+				"append\t( nodes_..: Node|DOMString ): void Element"
+			],
+			[
+				"appe",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"createR",
+				"createRow"
+			],
+			[
+				"hist",
+				"historicoBet"
+			],
+			[
+				"hisr",
+				"historico"
+			],
+			[
+				"ty",
+				"typeBet"
+			],
+			[
+				"getV",
+				"getValueX"
+			],
+			[
+				"ipt",
+				"iptValuePlayAutomatic"
+			],
+			[
+				"Va",
+				"value"
+			],
+			[
+				"btn",
+				"btnPlayAutomatic"
+			],
+			[
+				"type",
+				"typeBet"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"create",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"data",
+				"data_game"
+			],
+			[
+				"pe",
+				"pessoa"
+			],
+			[
+				"pes",
+				"pessoa"
+			],
+			[
+				"inse",
+				"INSERT"
+			],
+			[
+				"IN",
+				"INSERT"
+			],
+			[
+				"20",
+				"2022"
+			],
+			[
+				"INT",
+				"INTO"
+			],
+			[
+				"pess",
+				"pessoaJuridica"
+			],
+			[
+				"In",
+				"INTO"
+			],
+			[
+				"pessoa",
+				"pessoaFisica"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"codi",
+				"codigo_pessoa"
+			],
+			[
+				"C",
+				"CONSTRAINT"
+			],
+			[
+				"Rou",
+				"roulette"
+			],
+			[
+				"prevent",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"oncl",
+				"onclick\t: EventHandler Window"
+			],
+			[
+				"getElement",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"cono",
+				"console_log"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"disa",
+				"disable_bet"
+			],
+			[
+				"setAt",
+				"setAttribute\t( name: DOMString, value: DOMString ): void Element"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"f",
+				"flex-start\tjustify-content"
+			],
+			[
+				"chil",
+				"childNodes\t: NodeList Node"
+			],
+			[
+				"docu",
+				"document\t: Document Window"
+			],
+			[
+				"color",
+				"color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"vel",
+				"velMin"
+			],
+			[
+				"getElemen",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Element"
+			],
+			[
+				"ro",
+				"road"
+			],
+			[
+				"Dra",
+				"DrawRoad"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"bda",
+				"background-repeat\tproperty"
+			],
+			[
+				"v",
+				"vjrsz"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"reels",
+				"reels-row"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"mov",
+				"moveNext"
+			],
+			[
+				"grid-",
+				"grid-column-start\tproperty"
+			],
+			[
+				"rou",
+				"roulette"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"item",
+				"item_win"
+			],
+			[
+				"dis",
+				"display\t = 'flex' Style CSS"
+			],
+			[
+				"swa",
+				"swap"
+			],
+			[
+				"la",
+				"lastChild\t: Node Node"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"reels_",
+				"reels_r"
+			],
+			[
+				"reel",
+				"reels"
+			],
+			[
+				"im",
+				"img_2"
+			],
+			[
+				"img",
+				"img_1"
+			],
+			[
+				"pro",
+				"probability"
+			],
+			[
+				"it",
+				"itens"
+			],
+			[
+				"row",
+				"row_count"
+			],
+			[
+				"cr",
+				"create\t( o: Object, properties?: any ): Object Object"
+			],
+			[
+				"rem",
+				"remove\t(): void Element"
+			],
+			[
+				"ree",
+				"reels_img"
+			],
+			[
+				"ig",
+				"img_2"
+			],
+			[
+				"docum",
+				"document\t: Document Window"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"background",
+				"background-repeat\tproperty"
+			],
+			[
+				"ba",
+				"background\t = 'initial' Style CSS"
+			],
+			[
+				"a",
+				"animation\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "betdiz/resources/views/DashboardAdmin/validateAgent.blade.php",
+			"settings":
+			{
+				"buffer_size": 4945,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "betdiz/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 4525,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "betdiz/app/Http/Controllers/DashboardAdmin/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 2618,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "betdiz/app/Http/Controllers/Web/WebController.php",
+			"settings":
+			{
+				"buffer_size": 549,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "betdiz/app/Http/Controllers/DashboardAgent/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 2134,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/BETDIZ/betdiz/database",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/DashboardAdmin",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/DashboardAgent",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/Web",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Requests",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Requests/DashboardAgent",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Models",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/includes",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/templates"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Models/User.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Requests/DashboardAgent/AgentRequest.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Requests/DashboardAdmin/TicketRequest.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/DashboardAdmin/AuthController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/DashboardAgent/AuthController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/registerTicket.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Requests/DashboardAdmin/AgentRequest.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/validateAgent.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/DashboardAdmin/TicketController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations/2022_07_12_132338_create_matches_table.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/DashboardAdmin/AgentController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/index.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Models/Ticket.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Models/Match.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations/2022_07_12_122045_create_tickets_table.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/seeders/DatabaseSeeder.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations/2019_08_19_000000_create_failed_jobs_table.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/factories/UserFactory.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/result.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/templates/master.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Requests/DasboardAdmin/TicketRequest",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Console/Kernel.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Requests/TicketRequest",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations/2022_07_12_132338_create_match_table.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/database/migrations/2022_07_12_122045_create_ticket_table.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/routes/web.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/TicketController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/MatchController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/infoRound.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/templates/master.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/index.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/evolution.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/formLogin.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/includes/header.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/result.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAgent/register.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/formLogin.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAgent/formLogin.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAgent/password.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/register.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAgent/templates/master.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/dashboard_two.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/dashboard_tree.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/dashboard_sex.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/dashboard_for.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAdmin/dashboard_one.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Middleware/AdminAcess.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Kernel.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAgent/suport.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAgent/includes/header.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAgent/index.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/includes/header.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/contact.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/password.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardAgent/dashboard_two.html",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Middleware/AgentAcess.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Middleware/ClientAcess.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/balls.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/Web/WebController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/DashboardClient/AuthController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/table.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/Web/password.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/Web/register.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/Web/home.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Middleware/ClientAcess",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/web/templates/master.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/index.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/two.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/one.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/includes/menu.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/includes/modal.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DashboardClient/tree.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/DasboardClient/two.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Http/Controllers/Dashboard_Client/AuthController.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/.env",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/Web/dashboard_two.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/Web/dashboard_tree.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/Web/dashboard_for.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/Web/dashboard_one.blade.php",
+		"/C/xampp/htdocs/BETDIZ/PROJETO - BETDIZ/painel_cliente/register.html",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/home.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/password.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/web/includes/footer.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/index.blade.php",
+		"/C/xampp/htdocs/BETDIZ/PROJETO - BETDIZ/painel_cliente/password.html",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/web/password.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/web/includes/header.blade.php",
+		"/C/xampp/htdocs/BETDIZ/betdiz/resources/views/templates/header.blade.php",
+		"/C/xampp/htdocs/arquitetura_de_dados/index.php",
+		"/C/xampp/htdocs/projeto-rpi/application/views/cliente/backoffice/backoffice.php",
+		"/C/xampp/htdocs/projeto-rpi/application/models/cliente/Dashboardmodel.php",
+		"/C/xampp/htdocs/projeto-rpi/application/controllers/cliente/Dashboard.php",
+		"/C/Users/VJR/Desktop/main.c",
+		"/C/xampp/htdocs/projeto-rpi/application/controllers/admin/Dashboard.php",
+		"/C/xampp/htdocs/projeto-rpi/application/views/admin/dashboard/dashboard.php",
+		"/C/xampp/htdocs/projeto-rpi/application/models/cliente/Extratomodel.php",
+		"/C/xampp/htdocs/projeto-rpi/application/controllers/cliente/Faturas.php",
+		"/C/xampp/htdocs/projeto-rpi/application/models/cliente/Faturasmodel.php",
+		"/C/xampp/htdocs/projeto-rpi/application/controllers/cliente/Conta.php",
+		"/C/xampp/htdocs/projeto-rpi/application/views/cliente/login.php",
+		"/C/xampp/htdocs/projeto-rpi/application/helpers/usuarios_helper.php",
+		"/C/xampp/htdocs/projeto-rpi/application/controllers/Website.php",
+		"/C/xampp/htdocs/projeto-rpi/application/config/routes.php",
+		"/C/xampp/htdocs/projeto-rpi/application/config/config.php",
+		"/C/xampp/htdocs/projeto-rpi/application/controllers/cliente/Requests.php",
+		"/C/xampp/htdocs/projeto-rpi/application/views/cliente/templates/template.php",
+		"/C/xampp/htdocs/projeto-rpi/uploads/16561abfd80a07022ead9fd6049921d7.jpeg",
+		"/C/xampp/htdocs/projeto-rpi/application/models/Cronmodel.php",
+		"/C/xampp/htdocs/projeto-rpi/application/views/cliente/financeiro/faturas.php",
+		"/C/xampp/htdocs/projeto-rpi/application/views/cliente/cadastrar.php",
+		"/C/xampp/htdocs/projeto-rpi/application/models/admin/Niveismodel.php",
+		"/C/xampp/htdocs/EstruturaDeDados/colecaoTAD2/colecao.c",
+		"/C/xampp/htdocs/arquitetura_de_dados/compiler/main.js",
+		"/C/xampp/htdocs/arquitetura_de_dados/compiler/README.md",
+		"/C/xampp/htdocs/arquitetura_de_dados/compiler/v1/index.html",
+		"/C/xampp/htdocs/arquitetura_de_dados/compiler/v1/style.css",
+		"/C/xampp/htdocs/g7bet/gamer/xroleta/main.js",
+		"/C/xampp/htdocs/g7bet/application/views/cliente/jogo/xroleta.php",
+		"/C/xampp/htdocs/g7bet/gamer/xroleta/css/style.css",
+		"/C/xampp/htdocs/g7bet/application/controllers/cliente/Xroleta.php",
+		"/C/xampp/htdocs/g7bet/application/models/cliente/Xroletamodel.php",
+		"/C/xampp/htdocs/g7bet/application/views/cliente/jogo/xmoto.php",
+		"/C/xampp/htdocs/g7bet/application/controllers/cliente/Xmoto.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nullable",
+			"'<'",
+			"str_replace",
+			"nullable",
+			"tickets",
+			"final_time",
+			";\n",
+			"});\n",
+			"price",
+			"matches",
+			"num_match",
+			"value",
+			"null",
+			"}\n",
+			"assets_agent",
+			"assets",
+			"DashboardAdmin",
+			"validateAgent",
+			"result",
+			"route",
+			"assets",
+			"endsection",
+			"DashboardAdmin",
+			"DashboardAgent",
+			"assets",
+			"sair",
+			"assets",
+			"DashboardAgent",
+			"agent",
+			"web",
+			"asset",
+			"crsf",
+			" }}\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "betdiz/resources/views/DashboardAdmin/validateAgent.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1950,
+								1950
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "betdiz/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "betdiz/app/Http/Controllers/DashboardAdmin/AuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1840,
+								1840
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1845,
+										1846
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1835,
+										1836
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1560.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "betdiz/app/Http/Controllers/Web/WebController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "betdiz/app/Http/Controllers/DashboardAgent/AuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1595,
+								1595
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2130,
+										2131
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1593,
+										1594
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bet-sblime.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

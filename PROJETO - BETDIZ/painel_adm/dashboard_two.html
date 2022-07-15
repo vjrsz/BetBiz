@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BetBiz</title>
+    <link href="assets/img/favicon.svg" rel="icon">
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/0b08c8a640.js" crossorigin="anonymous"></script>
+
+
+</head>
+<body class="dashboard">
+
+  <nav class="navbar navbar-expand-lg navbar-light ">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="https://brainyou.com.br">
+            <img  src="assets/img/logo.png">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="ms-auto my-2 order-0 order-md-1 position-relative">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 nav_bar">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page"
+                           href="dashboard_one.html">Jogos Rodada</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_two.html">Validar Agente</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_tree.html">Evolução</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_for.html">Resultados</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_five.html">Informações Rodada</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="dashboard_sex.html">Cadastrar Bilhete</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page"
+                           href="">Sair</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+  <section>
+    <div class="container-fluid">
+      <div class="row">
+
+        <div class="col-lg-9 table_v1">
+          <div class="row table_one">
+
+            <div class="col-lg-10 mauto">
+              <p>Agentes Cadastrados</p>
+            </div>
+
+            <div class="col-lg-2 seach_table">
+              <button>Agentes <i class="fas fa-angle-down"></i></button>
+            </div>
+
+
+            <div class="table_one_inter table-responsive">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">Status</th>
+                    <th scope="col">Nome</th>
+                    <th scope="col">Código</th>
+                    <th scope="col">Telefone</th>
+                    <th scope="col">Pix</th>
+                    <th scope="col">Categoria</th>
+                    <th scope="col">Limite</th>
+                    <th scope="col">Ação</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">Aprovado</th>
+                    <td>Wanderson Lima</td>
+                    <td>A0001</td>
+                    <td>(62) 9 9999-9999</td>
+                    <td>(62) 9 9999-9999</td>
+                    <td>Broze</td>
+                    <td>R$250</td>
+                    <td>Aprovar / Negar</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="col-lg-12 login_footer">
+              <p>Copyright ©2022 betfair </p>
+          </div>
+
+        </div>
+
+
+        <div class="col-lg-3 coluna_table table_agent">
+            <h3>Cadastrar Agente</h3>
+            <div class="row">
+              <div class="col-lg-12 perfil">
+                <div class="row">
+                  <input type="" placeholder="Nome" name="">
+                  <input type="" placeholder="E-mail" name="">
+                  <input type="" placeholder="Categoria" name="">
+                  <input type="" placeholder="Limite" name="">
+                  <input type="" placeholder="Selecionar Thumbnail" name="">
+                  <button>Realizar cadastro</button>
+                </div>
+              </div>
+            </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- MODAL V1 -->
+  <div class="modal fade" id="modal_v2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body modal_v2">
+          <h2>Valor que deseja resgatar?</h2>
+          <input type="" placeholder="R$25,00" name="">
+          <button>Solicitar resgate</button>
+          <p>*Em até 24hrs nosso time irá altorizar sua solicitação</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- MODAL V2 -->
+  <div class="modal fade" id="modal_v3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-lg-4 modal_v3">
+              <img src="assets/img/perfil.png">
+              <h3>Rafael (C0000)</h3>
+              <p>Seu agente, Roberto (A0000)</p>
+            </div>
+            <div class="col-lg-8 modal_v4">
+              <h2>Alterar Informações</h2>
+              <input type="" placeholder="Rafael Cunha" name="">
+              <input type="" placeholder="E-mail" name="">
+              <input type="" placeholder="Chave PIX" name="">
+              <input type="" placeholder="Senha" name="">
+              <button>Salvar perfil</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script src="assets/js/jquery-3.6.0.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+</body>
+</html>
